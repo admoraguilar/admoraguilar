@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Admor Aguilar**, currently a **Lead Unity Developer @ David Morgan Education**.  
+I'm **Admor Aguilar**, currently a **Game Developer @ Voodoo**.  
 I make **games and apps**. I sometimes make [YouTube tutorials](https://www.youtube.com/channel/UCtHm0xFqvpRtPw4IovxJnDw) too on my spare time.
 
 I've done projects for **PC, Mobile (Android/iOS), VR/AR**.  
