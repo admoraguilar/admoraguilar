@@ -8,9 +8,9 @@ I love **scalable architectures, optimization, UI/UX, and gameplay**!
 
 #### Tech stack: 
 - 🎮 **Game Engines**: Unity, Unreal
-- 🎴 **Frameworks**: .NET, ASP.NET
+- 🎴 **Frameworks**: .NET, ASP.NET, Flutter, React, Jekyll
 - ⚙ **Services**: AWS, GCP, Azure
-- 👨‍💻 **Languages**: C#, C++, Dart
+- 👨‍💻 **Languages**: C#, C++, Dart, JavaScript, HTML, CSS
 - 🔧 **Tools**: SourceTree, Git
 
 📫 Ways to reach me out: [LinkedIn](https://www.linkedin.com/in/admoraguilar), [Twitter](https://twitter.com/admoraguilar)  
