@@ -8,7 +8,7 @@ I love **scalable architectures, optimization, UI/UX, and gameplay**!
 
 #### Tech stack: 
 - 🎮 **Game Engines**: Unity, Unreal
-- 🎴 **Frameworks**: .NET, ASP.NET, Flutter, React, NodeJS, Jekyll
+- 🎴 **Frameworks**: .NET, ASP.NET, Flutter, React, NodeJS, Photon, Jekyll
 - ⚙ **Services**: Amazon AWS, Google GCP, Microsoft Azure
 - 👨‍💻 **Languages**: C#, C++, Dart, JavaScript, HTML, CSS
 - 🔧 **Tools**: SourceTree, Git, Amazon Lightsail
