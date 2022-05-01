@@ -14,7 +14,7 @@ I love **scalable architectures, optimization, UI/UX, and gameplay**!
 - 🔧 **Tools**: SourceTree, Git, Amazon Lightsail
 - 📂 **Database**: NoSQL (MongoDB, Amazon DynamoDB)
 - 🚚 **CDN**: Bunny, Amazon Cloudfront
-- 💵 **Monetization**: Google Admob
+- 💵 **Monetization**: Google AdMob
 
 📫 Ways to reach me out: [LinkedIn](https://www.linkedin.com/in/admoraguilar), [Twitter](https://twitter.com/admoraguilar)  
 📜 My portfolio for my recent projects: https://admoraguilar.github.io/
