@@ -9,9 +9,12 @@ I love **scalable architectures, optimization, UI/UX, and gameplay**!
 #### Tech stack: 
 - 🎮 **Game Engines**: Unity, Unreal
 - 🎴 **Frameworks**: .NET, ASP.NET, Flutter, React, NodeJS, Jekyll
-- ⚙ **Services**: AWS, GCP, Azure
+- ⚙ **Services**: Amazon AWS, Google GCP, Microsoft Azure
 - 👨‍💻 **Languages**: C#, C++, Dart, JavaScript, HTML, CSS
-- 🔧 **Tools**: SourceTree, Git
+- 🔧 **Tools**: SourceTree, Git, Amazon Lightsail
+- 📂 **Database**: NoSQL (MongoDB, Amazon DynamoDB)
+- 🚚 **CDN**: Bunny, Amazon Cloudfront
+- 💵 **Monetization**: Google Admob
 
 📫 Ways to reach me out: [LinkedIn](https://www.linkedin.com/in/admoraguilar), [Twitter](https://twitter.com/admoraguilar)  
 📜 My portfolio for my recent projects: https://admoraguilar.github.io/
