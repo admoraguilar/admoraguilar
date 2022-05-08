@@ -16,8 +16,10 @@ I love **scalable architectures, optimization, UI/UX, and gameplay**!
 - 📂 **Database**: NoSQL (MongoDB, Amazon DynamoDB)
 - 🚚 **CDN**: Bunny, Amazon Cloudfront
 - 💵 **Monetization**: Google AdMob
+- 📊 **Analytics**: GameAnalytics, Unity Analytics, Tableau, Smartlook
 - 🗃 **Project Management**: Notion, Jira, Trello, GSuite, Airtable, Slack
 - 🛠 **Programming Patterns**: MVC, Dependency Injection, ECS, Component-Based, Strategy, Singleton
+- 🕹 **Game Genres**: 2D, 3D FPS, 3D TPS, Hypercasual, Fixed Camera System (ala Resident Evil), Puzzle, Horror"
 
 📫 Ways to reach me out: [LinkedIn](https://www.linkedin.com/in/admoraguilar), [Twitter](https://twitter.com/admoraguilar)  
 📜 My portfolio for my recent projects: https://admoraguilar.github.io/
